@@ -58,6 +58,14 @@ open `index.html` in browser:
 
 ![](diffed.png)
 
+英文效果好一点，[file3](data/file3), [file4](data/file4)
+
+```
+./pgd.sh data/file3 data/file4
+```
+
+![](diffed2.png)
+
 ---
 
 注：
